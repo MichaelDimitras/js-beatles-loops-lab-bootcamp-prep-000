@@ -6,3 +6,18 @@ function theBeatlesPlay(musician, instrument){
 }
 
 
+function johnLennonFacts(arr){
+  var c = [];
+  var idx = 0;
+  while (c.length < arr.length){
+    c.push(arr[idx] + "!!!");
+  }
+
+  return c;
+}
+
+function iLoveTheBeatles(num){
+  var love = [];
+
+  
+}
